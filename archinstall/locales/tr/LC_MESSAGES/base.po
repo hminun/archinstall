@@ -3,8 +3,6 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 21.05.2022\n"
 "PO-Revision-Date: 2023-12-10 20:32+0100\n"
-"Last-Translator: Abdullah Koyuncu @wiseweb-works <wisewebworks@outlook.com>\n"
-"Language-Team: wiseweb-works, AlperShal, tugsatenes, eren-ince, Schwarzeisc00l, Oruch379\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -248,10 +246,10 @@ msgid "Mirror region"
 msgstr "İndirme sunucusu bölgesi"
 
 msgid "Locale language"
-msgstr "Yerel ayar dili"
+msgstr "Yerel Dil"
 
 msgid "Locale encoding"
-msgstr "Yerel ayar dil kod şeması"
+msgstr "Yerel dil kod şeması"
 
 msgid "Drive(s)"
 msgstr "Disk(ler)"
@@ -980,7 +978,7 @@ msgid "Disk encryption"
 msgstr "Disk şifrelemesi"
 
 msgid "Configuration"
-msgstr "Konfigürasyon"
+  msgstr "Yapılandırma"
 
 msgid "Password"
 msgstr "Şifre"
@@ -1028,7 +1026,7 @@ msgid "Should this profile be enabled for installation?"
 msgstr "Bu profil kurulum için etkinleştirilmeli mi?"
 
 msgid "Create your own"
-msgstr "Kendinizinkini oluşturun"
+msgstr "Sana ait bir tane oluştur"
 
 msgid ""
 "\n"
@@ -1095,7 +1093,7 @@ msgid "Select signature option"
 msgstr "İmza seçeneğini seçin"
 
 msgid "Custom mirrors"
-msgstr "Kişisel depo aynası"
+msgstr "Kişisel Ayna"
 
 msgid "Defined"
 msgstr "Tanımlı"
@@ -1227,7 +1225,7 @@ msgstr "Arch Linux anahtarlık senkronizasyonunun (archlinux-keyring-wkd-sync) t
 
 #, fuzzy
 msgid "Selected profiles: "
-msgstr "Profil sil"
+msgstr "Seçili Profiller: "
 
 #, fuzzy
 msgid "Time synchronization not completing, while you wait - check the docs for workarounds: https://archinstall.readthedocs.io/"
